@@ -16,10 +16,10 @@ IRsend irsend(14);  // An IR LED is controlled by GPIO pin 14 (D5)
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-const char auth[] = "epLHp0dZ82_WbhMZ0UYAe5QLEU6Ucd7H";
+const char auth[] = "your_blynk_API_key";
 // Network settings
-const char ssid[] = "TP-Link_1AC0";
-const char pass[] = "89290101";
+const char ssid[] = "your_WIFI_SSID";
+const char pass[] = "your_WIFI_PASS";
 
 
 
